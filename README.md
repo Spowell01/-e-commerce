@@ -32,10 +32,15 @@ You will need to npm install the following:
 ## Usage
 
 Please watch this video to see the functionality of this code:
+https://drive.google.com/file/d/1kQZeWVFMp30rLMzIVQBinjfHdHCdB8yq/view
 
 ## Credits
 
 I got the source code from:
+https://git.bootcampcontent.com/Ohio-State-University/OSU-VIRT-FSF-PT-01-2024-U-LOLC/-/tree/main/13-ORM/02-Challenge?ref_type=heads
+
+I watched this video to better understand how to to make requests:
+https://www.youtube.com/watch?v=H16GUC9Svyk
 
 ## License
 
